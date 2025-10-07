@@ -1107,10 +1107,10 @@ async function Draw(){
     }
 
     sphereSrc = [
-    'https://i.ibb.co/60Tmdqz4/red.png',
-    'https://i.ibb.co/Z6MWhs6H/yellow.png',
-    'https://i.ibb.co/dJLZmJMY/teal.png',
-    'https://i.ibb.co/215FSXdW/blue.png',
+    'https://i.ibb.co/gLynqrR2/red.png',
+    'https://i.ibb.co/sdc9XVDL/yellow.png',
+    'https://i.ibb.co/nWLVF3Q/teal.png',
+    'https://i.ibb.co/pBkTBxHn/blue.png',
     ]
     spheres = []
     sphereSrc.map(v => {
