@@ -1160,7 +1160,7 @@ async function Draw(){
     }
     
     bg = new Image()
-    bg.src = 'https://i.ibb.co/bt8pj4x/bobble-board.png'
+    bg.src = 'https://i.ibb.co/mV6RBsQT/arkaplan.png'
     
     
     //keys = Array(128).fill(false)
